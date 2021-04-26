@@ -1,3 +1,4 @@
+![Which social media platform is the most important_](https://user-images.githubusercontent.com/79545236/116139102-80b56000-a68a-11eb-84bf-d3a2d50f4bc3.png)
 # Personal Project for DTC 115 - Introduction to Data Analytics
 Repository for my personal project for DATA 115 - Introduction to Data Analytics at Washington State University.
 
