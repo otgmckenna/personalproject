@@ -8,3 +8,5 @@ Acquiring the data for this project was made possible through the use of data.wo
 ![Which social media platform is the most important_](https://user-images.githubusercontent.com/79545236/116139102-80b56000-a68a-11eb-84bf-d3a2d50f4bc3.png)
 
 The chart above depicts an overall analysis of the answers provided, showing the overall number of answers for each social media platform used in the survey.
+
+The one thing not present in this dataset that upsets me and, in my opinion, throws off the overall data is the absence of Twitter as an option for social media platforms. I believe Twitter to be one of the largest social media platforms and the lack of Twitter as an option would ultimately skew the data towards the second-best social media platform for a lot of the participants of the curvey.
