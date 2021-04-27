@@ -7,7 +7,7 @@ Acquiring the data for this project was made possible through the use of data.wo
 
 ![Which Social Media Millennials Care About Most](https://user-images.githubusercontent.com/79545236/116141108-18b44900-a68d-11eb-8e39-99fa060f3dca.png)
 
-The chart above breaks down the overall data by gender, showing the number of responses from each gender and comparing them to each other.
+The chart above breaks down the overall data by gender, showing the number of responses from each gender and comparing them to each other. It should also be noted there were 38 respondents that did not provide a gender, and as such, have not been included in the two charts shown above and below.
 
 ![Which Social Media Millennials Care About Most (Percentage)](https://user-images.githubusercontent.com/79545236/116141344-6630b600-a68d-11eb-8486-bc3a6736c36f.png)
 
