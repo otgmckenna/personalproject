@@ -13,6 +13,14 @@ The chart above breaks down the overall data by gender, showing the number of re
 
 The chart above shows the percentage of choices for each gender. For example, 59.10% of males answering the survey chose Snapchat as the social media platform they care about the most.
 
+![Answers based on education level (1)](https://user-images.githubusercontent.com/79545236/116178321-3227b600-a6ca-11eb-98ab-48fd0f5572ff.png)
+
+Another thing I wanted to look at was the answers based on the respondents' education level (high school, college and post-grad). Of course, the data seemed to be pretty consistent across the board, with Snapchat being the most popular and LinkedIn being the least popular.
+
+![Answers based on education level (2)](https://user-images.githubusercontent.com/79545236/116178472-7b780580-a6ca-11eb-805a-5b6d63026f21.png)
+
+And, of course, the above chart displays the same information as the second chart above.
+
 The one thing not present in this dataset that upsets me and, in my opinion, throws off the overall data is the absence of Twitter as an option for social media platforms. I believe Twitter to be one of the largest social media platforms and the lack of Twitter as an option would ultimately skew the data towards the second-best social media platform for a lot of the participants of the survey. Unfortunately, in order to reconstruct this survey and poll people would be exceedingly difficult, seeing as you would likely need a rather large pool of respondents in order to give the data any weight/significance; polling, say, 10 people would not be sufficient in attempting to generalize that information to a larger overall population, especially when dealing with some like social media.
 
 The main takeaway from this data is people are much more interested in the traditional social media platforms and are largely more favorable of the platforms that focus on communication, seeing as Snapchat is the clear favorite among the respondents. It appears that not many respondents were enthusiastic to use LinkedIn, or maybe they had no use for it, either due to already having a job or not currently searching for a job.
